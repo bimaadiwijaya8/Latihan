@@ -3,6 +3,6 @@ public class latihan {
         System.out.println("Halo 1");
         System.out.println("Halo 2");
         System.out.println("Halo 3");
-
+        System.out.println("Halo 4");
     }
 }
